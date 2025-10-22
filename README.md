@@ -56,7 +56,7 @@ Applies independent t-tests to compare profit margins between top and bottom rev
 
 Evaluates whether differences are statistically significant, enabling data-backed vendor management decisions.
 
-🪵 Logging
+🧾 Logging
 
 Logs are crucial for:
 
