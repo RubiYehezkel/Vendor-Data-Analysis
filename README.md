@@ -1,4 +1,4 @@
-# Vendor Data Analysis
+# Vendors Data Analysis
 
 🏪 Vendor Performance & Sales Analysis
 📖 Project Overview
